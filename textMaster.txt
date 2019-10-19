@@ -1,0 +1,2 @@
+﻿Đây là file master
+Source ở bên branch 1
